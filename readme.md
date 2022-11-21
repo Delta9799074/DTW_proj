@@ -17,7 +17,7 @@ python
 cpp
 |--DTW_Function.cpp
 |--DTW_Function.h
-|--mian.cpp
+|--main.cpp
 vivado
 |--config_vivado.md
 |--design_1_wrapper.xsa
